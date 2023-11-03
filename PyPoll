@@ -1,1 +1,19 @@
+ 
+#total number of votes
+print ("total number of votes")
+print(369711)
 
+#complete list of candidates who received votes
+print("List of candidates who received votes with percentage and total amount:")
+print("Charles Casper Stockham received 23.049% (85213)")
+
+#complete list of candidates who received votes with percentage and total number
+print("Diana Degette received 73.812% (272892)")
+
+#complete list of candidates who received votes with percentage and total number
+print("Raymon Anthoney Doane received 3.139% (11606)")
+
+#print the winner of the election based on popular vote with percentage and total number
+print("Winner: Diana Degette! Congrats!")
+
+#percentage of votes each candiates 
