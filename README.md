@@ -1,8 +1,8 @@
 # python-challenge- 
-Pybank code = PyBank analysis
+Pybank code = PyBank analysis.py
 
 
-Pybank python terminal script = PyBankanalysis 
+Pybank python terminal script = PyBankanalysis.py
 
 
 PyPoll script (candidates script) = pybankanalysis
