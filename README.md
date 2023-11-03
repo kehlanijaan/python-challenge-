@@ -5,7 +5,7 @@ Pybank code = pybank analysis
 Pybank python script = PyBankanalysis 
 
 
-PyPoll script = PyPoll.txt
+PyPoll script = Pybank analysis
 
 
 PyPoll code = PyPoll 
