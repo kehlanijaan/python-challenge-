@@ -1,11 +1,11 @@
 # python-challenge- 
-Pybank code = pybank analysis
+Pybank code = PyBank analysis
 
 
-Pybank python script = PyBankanalysis 
+Pybank python script = PyBank analysis 
 
 
-PyPoll script = Pybank analysis
+PyPoll script = pybankanalysis
 
 
 PyPoll code = PyPoll 
