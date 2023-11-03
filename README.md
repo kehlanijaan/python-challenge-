@@ -1,5 +1,5 @@
 # python-challenge- 
-Pybank code = PyBank analysis
+Pybank code = main
 
 
 Pybank python terminal script = PyBankanalysis
