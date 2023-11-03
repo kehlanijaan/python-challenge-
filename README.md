@@ -2,10 +2,10 @@
 Pybank code = PyBank analysis.py
 
 
-Pybank python terminal script = PyBankanalysis
+Pybank python terminal script = PyBankanalysis.py
 
 
-PyPoll script (candidates script) = pybankanalysis.py
+PyPoll script (candidates script) = pybankanalysis
 
 
 PyPoll code = PyPoll 
